@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Laureinema
-- 👀 I’m interested in computer science
+- 👀 I’m interested in software application
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on this platform
 - 📫 isimbilarissa@gmail.com
